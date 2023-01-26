@@ -12,5 +12,3 @@ ReactDOM.render(
   document.getElementById('root'));
 
 // Trabalhando o JSX de forma fluída.
-const testando = 'ola'
-console.log(testando);
