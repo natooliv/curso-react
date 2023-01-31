@@ -4,6 +4,7 @@ body{
   background-color: rgb(0, 0, 0);
   color: #fff;
   text-align: center;
+  font-size: 1.4rem;
 }
 h1,h2,h3{
   font-weight: 200;
